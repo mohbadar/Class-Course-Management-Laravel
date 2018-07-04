@@ -1,0 +1,30 @@
+body , html{
+	padding:0px;
+	margin:0px;
+	
+}
+
+
+
+#banner{
+	min-height:70px;
+	background-color:#010066;
+	color:white;
+	
+	
+}
+
+#content{
+	
+	min-height: 400px;
+	
+}
+
+#footer{
+	min-height:50px;
+	background-color:#010066;
+}
+.table th{
+	background-color: #010066;
+	color:#fff;
+}
